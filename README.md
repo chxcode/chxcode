@@ -12,6 +12,18 @@ Hi there! 👋 I'm Xuan Chang.
 - 📫 How to reach me: [changxuan@ytu.edu.cn](mailto:changxuan@ytu.edu.cn)
 - ⚡ Fun fact: I love seal carving and playing badminton in my free time
 
+### 🛠 Tech Stack
+**Languages:** Go,Java,Python,TypeScript,PHP
+
+**Frameworks:** Gin,Spring Boot,Xorm,etc
+
+**Databases:** MySQL,PostgreSQL,Redis,Sqlite,ClickHouse
+
+**Others:** edge computing,devops,etc
+
+
+
+
 ### 🌟 Personal Projects
 
 #### [青柠小报 - Lime Bulletin](https://mp.weixin.qq.com/s/NxlG3Ld1-Q0cuJL7HaLDiQ)
