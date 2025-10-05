@@ -46,6 +46,6 @@ See, it's as simple as that. Aggregate video resources from the entire web.
 
 ### 📫 Connect with Me
 
-- 🌐 Personal Website: [www.changxuan.top](http://www.changxuan.top)
+- 🌐 Personal Website: [www.changxuan.top](https://www.changxuan.top)
 - 📧 Email: [changxuan@ytu.edu.cn](mailto:changxuan@ytu.edu.cn)
 - 🐦 微信公众号: `Worldhello`
