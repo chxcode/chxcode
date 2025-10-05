@@ -19,7 +19,7 @@ Hi there! 👋 I'm Xuan Chang.
 
 **Databases:** MySQL,PostgreSQL,Redis,Sqlite,ClickHouse
 
-**Others:** edge computing,devops,etc
+**Others:** edge computing,devops,AIOT,etc
 
 
 
