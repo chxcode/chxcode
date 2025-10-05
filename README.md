@@ -1,16 +1,39 @@
-## Hi there 👋
+## Xuan Chang's Home 
 
-<!--
-**chxcode/chxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ghpvc](https://komarev.com/ghpvc/?username=chxcode)](https://komarev.com/ghpvc/?username=chxcode)
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Xuan Chang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I'm currently working on cloud-native applications and AI-powered solutions
+- 🌱 I'm learning more about LLM applications and edge computing
+- 👯 I'm looking to collaborate on open-source projects related to DevOps and AI
+- 💬 Ask me about Go, Java, Python, Kubernetes and database optimization
+- 📫 How to reach me: [changxuan@ytu.edu.cn](mailto:changxuan@ytu.edu.cn)
+- ⚡ Fun fact: I love seal carving and playing badminton in my free time
+
+### 🌟 Personal Projects
+
+#### [青柠小报 - Lime Bulletin](https://mp.weixin.qq.com/s/NxlG3Ld1-Q0cuJL7HaLDiQ)
+A lightweight information aggregation cron application developed with Python, providing popular news push services.
+- **Tech:** Python
+
+#### [青柠数据 - Lime Data](https://data.qingning99.cn)
+A platform that aggregates data from the top search rankings across the entire internet.
+- **Tech:** Go, Python, Redis, MySQL, TypeScript, Vue
+- **Features:** Public opinion early warning, Data download, etc
+
+#### [壹言分享 - Yiyan Share](https://www.qingning99.cn/index.php)
+High-quality data sharing platform for free.
+- **Tech:** PHP, MySQL, WeChat Development, jQuery, Html
+- **Features:** Data Download
+
+#### [青柠影视 - Lime Video](https:v.qingning99.cn/index.php)
+See, it's as simple as that. Aggregate video resources from the entire web.
+- **Tech:** PHP, MySQL
+
+### 📫 Connect with Me
+
+- 🌐 Personal Website: [www.changxuan.top](http://www.changxuan.top)
+- 📧 Email: [changxuan@ytu.edu.cn](mailto:changxuan@ytu.edu.cn)
+- 🐦 微信公众号: `Worldhello`
