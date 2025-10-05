@@ -28,7 +28,7 @@ High-quality data sharing platform for free.
 - **Tech:** PHP, MySQL, WeChat Development, jQuery, Html
 - **Features:** Data Download
 
-#### [青柠影视 - Lime Video](https:v.qingning99.cn/index.php)
+#### [青柠影视 - Lime Video](https://v.qingning99.cn/index.php)
 See, it's as simple as that. Aggregate video resources from the entire web.
 - **Tech:** PHP, MySQL
 
