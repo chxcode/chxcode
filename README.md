@@ -26,14 +26,14 @@ Hi there! 👋 I'm Xuan Chang.
 
 ### 🌟 Personal Projects
 
-#### [青柠小报 - Lime Bulletin](https://mp.weixin.qq.com/s/NxlG3Ld1-Q0cuJL7HaLDiQ)
-A lightweight information aggregation cron application developed with Python, providing popular news push services.
-- **Tech:** Python
-
 #### [青柠数据 - Lime Data](https://data.qingning99.cn)
 A platform that aggregates data from the top search rankings across the entire internet.
 - **Tech:** Go, Python, Redis, MySQL, TypeScript, Vue
-- **Features:** Public opinion early warning, Data download, etc
+- **Features:** 「AI assistant🤖」、Public opinion early warning, Data download, etc
+
+#### [青柠小报 - Lime Bulletin](https://mp.weixin.qq.com/s/NxlG3Ld1-Q0cuJL7HaLDiQ)
+A lightweight information aggregation cron application developed with Python, providing popular news push services.
+- **Tech:** Python
 
 #### [壹言分享 - Yiyan Share](https://www.qingning99.cn/index.php)
 High-quality data sharing platform for free.
@@ -49,3 +49,6 @@ See, it's as simple as that. Aggregate video resources from the entire web.
 - 🌐 Personal Website: [www.changxuan.top](https://www.changxuan.top)
 - 📧 Email: [changxuan@ytu.edu.cn](mailto:changxuan@ytu.edu.cn)
 - 🐦 微信公众号: `Worldhello`
+
+
+![公众号](https://www.changxuan.top/wp-content/uploads/2019/08/qrcode_for_gh_6f974d85ab88_258.jpg)
